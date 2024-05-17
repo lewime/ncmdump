@@ -1,0 +1,7 @@
+*.exe
+ncmdump
+!push.bat
+.vscode
+.idea
+
+build
